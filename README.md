@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently working as a student in CSE (AI/ML)<br>- 🤝 I'm looking to collaborate on full-stack web dev projects, especially with ML integration<br>- 🌱 I'm currently learning Web Dev (UI/UX, Flask, Git)<br>- 💬 Ask me about Web Dev, UI/UX, Python, or ML basics<br>- ⚡ Fun fact: I read spellbooks (docs) less than Hermione, but debug like I've got a Time-Turner
+🎓 I'm currently working as a student in CSE (AI/ML)<br>- 🤝 I'm looking to collaborate on full-stack web dev projects, especially with ML integration<br>- 🌱 I'm currently learning Web Dev (UI/UX, Flask, Git)<br>- 💬 Ask me about Web Dev, UI/UX, Python, or ML basics<br>-  Fun fact: I read spellbooks (docs) less than Hermione, but debug like I've got a Time-Turner
 
 
 ## 🌐 Socials:
