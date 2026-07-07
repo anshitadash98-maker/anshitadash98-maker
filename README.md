@@ -40,7 +40,7 @@ currently: "First-Year B.Tech CSE (AI/ML), SOA ITER, Bhubaneswar"
 
 I'm an engineering student building real, deployed products instead of waiting for a classroom to hand me a project. My goal is a backend-leaning full-stack SDE role, with AI/ML layered on top as a specialization rather than a crutch. I care about actually understanding what my code does — copy-pasting AI output without comprehension isn't part of how I work.
 
-Currently serving as the **UI/UX Lead** for my Smart India Hackathon 2026 team, working on **PS25013 — Real-Time Public Transport Tracking for Small Cities**.
+
 
 **🔭 Open to:** Internship opportunities in full-stack development, and collaborative student-led technical projects.
 
