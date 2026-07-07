@@ -141,57 +141,17 @@ A multi-page groundwater data dashboard with scroll-triggered animations, built 
 
 </details>
 
-<br/>
 
-## 🏆 Achievements
 
-<div align="center">
 
-| Recognition | Details |
-|---|---|
-| SIH 2026 Team Selection | Selected as UI/UX Lead for PS25013 (Real-Time Public Transport Tracking) |
-| Self-Directed Build Streak | Shipped 4+ full-stack projects independently outside coursework |
 
-</div>
 
-<br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshitadash98-maker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshitadash98-maker&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshitadash98-maker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="48%"/>
 
-</div>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshitadash98-maker&theme=algolia&no-frame=true&column=4&margin-w=10" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshitadash98-maker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="90%"/>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anshitadash98-maker/anshitadash98-maker/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-<br/>
 
 ## 🎯 Current Focus
 
