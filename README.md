@@ -172,7 +172,7 @@ learning:
   - Machine Learning fundamentals
 
 building:
-  - Real-time transport tracking system (SIH 2026)
+  - Real-time transport tracking system 
   - Personal developer portfolio
 
 exploring:
