@@ -34,7 +34,6 @@
 role: "Aspiring Full-Stack Software Engineer"
 current_focus: "Building production-grade projects end-to-end"
 specialization: "AI/ML as a layered capability, not the whole stack"
-mindset: "Understand before I ship — no vibe coding"
 currently: "First-Year B.Tech CSE (AI/ML), SOA ITER, Bhubaneswar"
 ```
 
