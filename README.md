@@ -1,32 +1,16 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anshita%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20SDE%20%7C%20AI%2FML%20Layered%20Specialization&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anshita%20Dash&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20SDE%20%7C%20Learning%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+%40+SOA+ITER;Building+Full-Stack+Projects+from+Scratch;UI%2FUX+Lead+%40+SIH+2026;Currently+Deep+in+DSA+%2B+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+%40+SOA+ITER;Building+Full-Stack+Projects+from+Scratch;Learning+DSA+in+Java+%2B+Python+for+ML;Currently+Deep+in+DSA+%2B+Java" alt="Typing SVG" />
 </a>
-
 <br/>
-
 ![Location](https://img.shields.io/badge/📍_Location-Bhubaneswar,_India-6D28D9?style=flat-square)
 ![Academic](https://img.shields.io/badge/🎓_B.Tech-CSE_(AI%2FML)-4C1D95?style=flat-square)
-
 <br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshitadash98-maker)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshitadash98-maker&color=6D28D9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/anshitadash98-maker?color=8B5CF6&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/anshitadash98-maker?color=A78BFA&style=flat-square&label=Stars)
-
-</div>
-
-<br/>
 
 ## 🧬 About Me
 
