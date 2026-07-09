@@ -80,6 +80,23 @@ I'm an engineering student building real, deployed products instead of waiting f
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>📚 LectureAI — AI-Powered Lecture Study Tool (Landing Site)</b></summary>
+<br/>
+
+A multi-page marketing site for an AI lecture study tool, featuring an Apple-style pinned scroll animation that walks through the product's core workflow, plus real authentication.
+
+| | |
+|---|---|
+| **Stack** | React, Vite, TypeScript, Tailwind CSS, Framer Motion, Clerk |
+| **Pages** | Home, Features, AI Learning, Pricing, Resources |
+| **Highlight** | Scroll-linked pinned phone animation sequencing through upload → summary → flashcards → quiz → confidence score → mind map → revision → exam ready |
+| **Auth** | Real sign-up/sign-in flow via Clerk |
+| **Live** | [lecture-ai-website.vercel.app](https://lecture-ai-website.vercel.app/) |
+| **Repository** | [View on GitHub](https://github.com/anshitadash98-maker/lecture-ai-website) |
+
+</details>
+
+<details>
 <summary><b>🚌 TransitWatch — Real-Time Public Transport Tracking</b></summary>
 <br/>
 
