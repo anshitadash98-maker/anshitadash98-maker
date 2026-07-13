@@ -24,7 +24,7 @@ specialization: "AI/ML as a layered capability, not the whole stack"
 currently: "First-Year B.Tech CSE (AI/ML), SOA ITER, Bhubaneswar"
 ```
 
-I'm an engineering student building real, deployed products instead of waiting for a classroom to hand me a project. My goal is a backend-leaning full-stack SDE role, with AI/ML layered on top as a specialization rather than a crutch. I care about actually understanding what my code does copy-pasting AI output without comprehension isn't part of how I work.
+I'm an engineering student building real,deployed products instead of waiting for a classroom to hand me a project. My goal is a backend-leaning full-stack SDE role, with AI/ML layered on top as a specialization rather than a crutch. I care about actually understanding what my code does copy-pasting AI output without comprehension isn't part of how I work.
 
 
 
